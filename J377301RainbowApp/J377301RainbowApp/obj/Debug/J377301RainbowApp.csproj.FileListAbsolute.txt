@@ -1,0 +1,13 @@
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.csprojAssemblyReference.cache
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.Form1.resources
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.Properties.Resources.resources
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.csproj.GenerateResource.cache
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.csproj.CoreCompileInputs.cache
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\bin\Debug\J377301RainbowApp.exe.config
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\bin\Debug\J377301RainbowApp.exe
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\bin\Debug\J377301RainbowApp.pdb
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.csproj.CopyComplete
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.exe
+C:\Users\Shermayne\Desktop\J377301RainbowApp\J377301RainbowApp\obj\Debug\J377301RainbowApp.pdb
